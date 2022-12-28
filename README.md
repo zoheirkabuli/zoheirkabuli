@@ -1,15 +1,15 @@
-<h1 align="center">Hi there, I'm Mohammad Reza Salemi 👋</h1>
+<h1 align="center">Hi there, I'm Zoheir Kabuli 👋</h1>
 
 <p align="center"> 
- <a href="https://twitter.com/mh_salemi" alt="Mohammad Reza Salemi's Twitter">
+ <a href="=https://twitter.com/zoheirkabuli" alt="Zoheir kabuli's Twitter">
    <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
  </a>
  
- <a href="https://stackoverflow.com/users/15299417" alt="Mohammad Reza Salemi's stackoverflow">
+ <a href="https://stackoverflow.com/users/11516477" alt="Zoheir Kabuli's stackoverflow">
    <img src="https://img.shields.io/badge/%20-Stack%20Overflow-%23F58025?logo=stack%20overflow&logoColor=white&style=for-the-badge" />
  </a>
 
- <a href="https://www.linkedin.com/in/msalemi" alt="Mohammad Reza Salemi's linkedin">
+ <a href="https://www.linkedin.com/in/zoheirkabuli" alt="Zoheir Kabuli's linkedin">
    <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mehdihadeli" />
  </a>
 </p>
